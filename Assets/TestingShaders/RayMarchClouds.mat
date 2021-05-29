@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RayMarchClouds
+  m_Shader: {fileID: 4800000, guid: 6cb0660bed9b5df49b9bac8d5229895f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NoiseOffset
+      second:
+        m_Texture: {fileID: 2800000, guid: 913d289ca47f6184f8cb38efa56145cb, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NoiseOffsets
+      second:
+        m_Texture: {fileID: 2800000, guid: 913d289ca47f6184f8cb38efa56145cb, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Iterations
+      second: 325
+    - first:
+        name: _MarchIterations
+      second: 50
+    - first:
+        name: _ViewDistance
+      second: 2.12
+    m_Colors:
+    - first:
+        name: _CloudDensity
+      second: {r: 0.18, g: 0.8, b: 0, a: 0}
+    - first:
+        name: _Color
+      second: {r: 0.5529, g: 0.47567993, b: 1, a: 1}

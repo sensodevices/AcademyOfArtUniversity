@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 037564f417b8a924c8e38c84475865ba
+timeCreated: 1487918475
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: base_control
+    100004: base_group
+    100006: //RootNode
+    100008: hip
+    100010: l_clav
+    100012: l_clav_control
+    100014: l_clav_group
+    100016: l_hand
+    100018: l_middle_1
+    100020: l_middle_1_control
+    100022: l_middle_1_group
+    100024: l_middle_2
+    100026: l_middle_2_control
+    100028: l_middle_2_group
+    100030: l_middle_3
+    100032: l_middle_3_control
+    100034: l_middle_3_group
+    100036: l_middle_4
+    100038: l_middle_4_control
+    100040: l_middle_4_group
+    100042: l_middle_5
+    100044: l_pinky_1
+    100046: l_pinky_1_control
+    100048: l_pinky_1_group
+    100050: l_pinky_2
+    100052: l_pinky_2_control
+    100054: l_pinky_2_group
+    100056: l_pinky_3
+    100058: l_pinky_3_control
+    100060: l_pinky_3_group
+    100062: l_pinky_4
+    100064: l_point_1
+    100066: l_point_1_control
+    100068: l_point_1_group
+    100070: l_point_2
+    100072: l_point_2_control
+    100074: l_point_2_group
+    100076: l_point_3
+    100078: l_point_3_control
+    100080: l_point_3_group
+    100082: l_point_4
+    100084: l_point_4_control
+    100086: l_point_4_group
+    100088: l_point_5
+    100090: l_shoulder
+    100092: l_shoulder_control
+    100094: l_shoulder_group
+    100096: l_shoulder_loc
+    100098: l_thumb_1
+    100100: l_thumb_1_control
+    100102: l_thumb_1_group
+    100104: l_thumb_2
+    100106: l_thumb_2_control
+    100108: l_thumb_2_group
+    100110: l_thumb_3
+    100112: l_thumb_3_control
+    100114: l_thumb_3_group
+    100116: l_thumb_4
+    100118: l_thumb_4_control
+    100120: l_thumb_4_group
+    100122: l_thumb_5
+    100124: l_wrist
+    100126: l_wrist_control
+    100128: l_wrist_group
+    100130: Mesh
+    100132: neck
+    100134: neck_control
+    100136: neck_group
+    100138: r_clav
+    100140: r_clav_control
+    100142: r_clav_group
+    100144: r_hand
+    100146: r_middle_1
+    100148: r_middle_1_control
+    100150: r_middle_1_group
+    100152: r_middle_2
+    100154: r_middle_2_control
+    100156: r_middle_2_group
+    100158: r_middle_3
+    100160: r_middle_3_control
+    100162: r_middle_3_group
+    100164: r_middle_4
+    100166: r_middle_4_control
+    100168: r_middle_4_group
+    100170: r_middle_5
+    100172: r_pinky_1
+    100174: r_pinky_1_control
+    100176: r_pinky_1_group
+    100178: r_pinky_2
+    100180: r_pinky_2_control
+    100182: r_pinky_2_group
+    100184: r_pinky_3
+    100186: r_pinky_3_control
+    100188: r_pinky_3_group
+    100190: r_pinky_4
+    100192: r_point_1
+    100194: r_point_1_control
+    100196: r_point_1_group
+    100198: r_point_2
+    100200: r_point_2_control
+    100202: r_point_2_group
+    100204: r_point_3
+    100206: r_point_3_control
+    100208: r_point_3_group
+    100210: r_point_4
+    100212: r_point_4_control
+    100214: r_point_4_group
+    100216: r_point_5
+    100218: r_shoulder
+    100220: r_shoulder_control
+    100222: r_shoulder_group
+    100224: r_shoulder_loc
+    100226: r_thumb_1
+    100228: r_thumb_1_control
+    100230: r_thumb_1_group
+    100232: r_thumb_2
+    100234: r_thumb_2_control
+    100236: r_thumb_2_group
+    100238: r_thumb_3
+    100240: r_thumb_3_control
+    100242: r_thumb_3_group
+    100244: r_thumb_4
+    100246: r_thumb_4_control
+    100248: r_thumb_4_group
+    100250: r_thumb_5
+    100252: r_wrist
+    100254: r_wrist_control
+    100256: r_wrist_group
+    100258: root
+    100260: root_control
+    100262: root_group
+    100264: spine_1
+    100266: spine_1_control
+    100268: spine_1_group
+    100270: spine_1_stretch
+    100272: spine_2
+    100274: spine_2_control
+    100276: spine_2_group
+    100278: spine_2_stretch
+    100280: spine_3
+    100282: spine_3_control
+    100284: spine_3_group
+    100286: spine_3_stretch
+    100288: strechy_spine_control
+    400000: base
+    400002: base_control
+    400004: base_group
+    400006: //RootNode
+    400008: hip
+    400010: l_clav
+    400012: l_clav_control
+    400014: l_clav_group
+    400016: l_hand
+    400018: l_middle_1
+    400020: l_middle_1_control
+    400022: l_middle_1_group
+    400024: l_middle_2
+    400026: l_middle_2_control
+    400028: l_middle_2_group
+    400030: l_middle_3
+    400032: l_middle_3_control
+    400034: l_middle_3_group
+    400036: l_middle_4
+    400038: l_middle_4_control
+    400040: l_middle_4_group
+    400042: l_middle_5
+    400044: l_pinky_1
+    400046: l_pinky_1_control
+    400048: l_pinky_1_group
+    400050: l_pinky_2
+    400052: l_pinky_2_control
+    400054: l_pinky_2_group
+    400056: l_pinky_3
+    400058: l_pinky_3_control
+    400060: l_pinky_3_group
+    400062: l_pinky_4
+    400064: l_point_1
+    400066: l_point_1_control
+    400068: l_point_1_group
+    400070: l_point_2
+    400072: l_point_2_control
+    400074: l_point_2_group
+    400076: l_point_3
+    400078: l_point_3_control
+    400080: l_point_3_group
+    400082: l_point_4
+    400084: l_point_4_control
+    400086: l_point_4_group
+    400088: l_point_5
+    400090: l_shoulder
+    400092: l_shoulder_control
+    400094: l_shoulder_group
+    400096: l_shoulder_loc
+    400098: l_thumb_1
+    400100: l_thumb_1_control
+    400102: l_thumb_1_group
+    400104: l_thumb_2
+    400106: l_thumb_2_control
+    400108: l_thumb_2_group
+    400110: l_thumb_3
+    400112: l_thumb_3_control
+    400114: l_thumb_3_group
+    400116: l_thumb_4
+    400118: l_thumb_4_control
+    400120: l_thumb_4_group
+    400122: l_thumb_5
+    400124: l_wrist
+    400126: l_wrist_control
+    400128: l_wrist_group
+    400130: Mesh
+    400132: neck
+    400134: neck_control
+    400136: neck_group
+    400138: r_clav
+    400140: r_clav_control
+    400142: r_clav_group
+    400144: r_hand
+    400146: r_middle_1
+    400148: r_middle_1_control
+    400150: r_middle_1_group
+    400152: r_middle_2
+    400154: r_middle_2_control
+    400156: r_middle_2_group
+    400158: r_middle_3
+    400160: r_middle_3_control
+    400162: r_middle_3_group
+    400164: r_middle_4
+    400166: r_middle_4_control
+    400168: r_middle_4_group
+    400170: r_middle_5
+    400172: r_pinky_1
+    400174: r_pinky_1_control
+    400176: r_pinky_1_group
+    400178: r_pinky_2
+    400180: r_pinky_2_control
+    400182: r_pinky_2_group
+    400184: r_pinky_3
+    400186: r_pinky_3_control
+    400188: r_pinky_3_group
+    400190: r_pinky_4
+    400192: r_point_1
+    400194: r_point_1_control
+    400196: r_point_1_group
+    400198: r_point_2
+    400200: r_point_2_control
+    400202: r_point_2_group
+    400204: r_point_3
+    400206: r_point_3_control
+    400208: r_point_3_group
+    400210: r_point_4
+    400212: r_point_4_control
+    400214: r_point_4_group
+    400216: r_point_5
+    400218: r_shoulder
+    400220: r_shoulder_control
+    400222: r_shoulder_group
+    400224: r_shoulder_loc
+    400226: r_thumb_1
+    400228: r_thumb_1_control
+    400230: r_thumb_1_group
+    400232: r_thumb_2
+    400234: r_thumb_2_control
+    400236: r_thumb_2_group
+    400238: r_thumb_3
+    400240: r_thumb_3_control
+    400242: r_thumb_3_group
+    400244: r_thumb_4
+    400246: r_thumb_4_control
+    400248: r_thumb_4_group
+    400250: r_thumb_5
+    400252: r_wrist
+    400254: r_wrist_control
+    400256: r_wrist_group
+    400258: root
+    400260: root_control
+    400262: root_group
+    400264: spine_1
+    400266: spine_1_control
+    400268: spine_1_group
+    400270: spine_1_stretch
+    400272: spine_2
+    400274: spine_2_control
+    400276: spine_2_group
+    400278: spine_2_stretch
+    400280: spine_3
+    400282: spine_3_control
+    400284: spine_3_group
+    400286: spine_3_stretch
+    400288: strechy_spine_control
+    4300000: Mesh
+    7400000: enemy_Rig_casting
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: enemy_Rig_casting
+      takeName: enemy_Rig_casting
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Done
+        data: Casting
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: base
+        weight: 1
+      - path: base/root
+        weight: 1
+      - path: base/root/hip
+        weight: 1
+      - path: base/root/spine_1
+        weight: 1
+      - path: base/root/spine_1/spine_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_shoulder
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_middle_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_middle_1/l_middle_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_middle_1/l_middle_2/l_middle_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_middle_1/l_middle_2/l_middle_3/l_middle_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_middle_1/l_middle_2/l_middle_3/l_middle_4/l_middle_5
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_pinky_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_pinky_1/l_pinky_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_pinky_1/l_pinky_2/l_pinky_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_pinky_1/l_pinky_2/l_pinky_3/l_pinky_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_point_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_point_1/l_point_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_point_1/l_point_2/l_point_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_point_1/l_point_2/l_point_3/l_point_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_point_1/l_point_2/l_point_3/l_point_4/l_point_5
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_thumb_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_thumb_1/l_thumb_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_thumb_1/l_thumb_2/l_thumb_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_thumb_1/l_thumb_2/l_thumb_3/l_thumb_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/l_clav/l_wrist/l_hand/l_thumb_1/l_thumb_2/l_thumb_3/l_thumb_4/l_thumb_5
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/neck
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_shoulder
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_middle_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_middle_1/r_middle_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_middle_1/r_middle_2/r_middle_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_middle_1/r_middle_2/r_middle_3/r_middle_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_middle_1/r_middle_2/r_middle_3/r_middle_4/r_middle_5
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_pinky_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_pinky_1/r_pinky_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_pinky_1/r_pinky_2/r_pinky_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_pinky_1/r_pinky_2/r_pinky_3/r_pinky_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_point_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_point_1/r_point_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_point_1/r_point_2/r_point_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_point_1/r_point_2/r_point_3/r_point_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_point_1/r_point_2/r_point_3/r_point_4/r_point_5
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_thumb_1
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_thumb_1/r_thumb_2
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_thumb_1/r_thumb_2/r_thumb_3
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_thumb_1/r_thumb_2/r_thumb_3/r_thumb_4
+        weight: 1
+      - path: base/root/spine_1/spine_2/spine_3/r_clav/r_wrist/r_hand/r_thumb_1/r_thumb_2/r_thumb_3/r_thumb_4/r_thumb_5
+        weight: 1
+      - path: base_group
+        weight: 1
+      - path: base_group/base_control
+        weight: 1
+      - path: base_group/base_control/root_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_clav_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_clav_group/l_clav_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_clav_group/l_clav_control/l_shoulder_loc
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control/l_middle_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control/l_middle_2_group/l_middle_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control/l_middle_2_group/l_middle_2_control/l_middle_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control/l_middle_2_group/l_middle_2_control/l_middle_3_group/l_middle_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control/l_middle_2_group/l_middle_2_control/l_middle_3_group/l_middle_3_control/l_middle_4_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_middle_1_group/l_middle_1_control/l_middle_2_group/l_middle_2_control/l_middle_3_group/l_middle_3_control/l_middle_4_group/l_middle_4_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_pinky_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_pinky_1_group/l_pinky_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_pinky_1_group/l_pinky_1_control/l_pinky_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_pinky_1_group/l_pinky_1_control/l_pinky_2_group/l_pinky_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_pinky_1_group/l_pinky_1_control/l_pinky_2_group/l_pinky_2_control/l_pinky_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_pinky_1_group/l_pinky_1_control/l_pinky_2_group/l_pinky_2_control/l_pinky_3_group/l_pinky_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control/l_point_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control/l_point_2_group/l_point_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control/l_point_2_group/l_point_2_control/l_point_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control/l_point_2_group/l_point_2_control/l_point_3_group/l_point_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control/l_point_2_group/l_point_2_control/l_point_3_group/l_point_3_control/l_point_4_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_point_1_group/l_point_1_control/l_point_2_group/l_point_2_control/l_point_3_group/l_point_3_control/l_point_4_group/l_point_4_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control/l_thumb_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control/l_thumb_2_group/l_thumb_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control/l_thumb_2_group/l_thumb_2_control/l_thumb_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control/l_thumb_2_group/l_thumb_2_control/l_thumb_3_group/l_thumb_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control/l_thumb_2_group/l_thumb_2_control/l_thumb_3_group/l_thumb_3_control/l_thumb_4_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/l_shoulder_group/l_shoulder_control/l_wrist_group/l_wrist_control/l_thumb_1_group/l_thumb_1_control/l_thumb_2_group/l_thumb_2_control/l_thumb_3_group/l_thumb_3_control/l_thumb_4_group/l_thumb_4_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/neck_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/neck_group/neck_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_clav_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_clav_group/r_clav_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_clav_group/r_clav_control/r_shoulder_loc
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control/r_middle_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control/r_middle_2_group/r_middle_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control/r_middle_2_group/r_middle_2_control/r_middle_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control/r_middle_2_group/r_middle_2_control/r_middle_3_group/r_middle_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control/r_middle_2_group/r_middle_2_control/r_middle_3_group/r_middle_3_control/r_middle_4_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_middle_1_group/r_middle_1_control/r_middle_2_group/r_middle_2_control/r_middle_3_group/r_middle_3_control/r_middle_4_group/r_middle_4_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_pinky_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_pinky_1_group/r_pinky_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_pinky_1_group/r_pinky_1_control/r_pinky_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_pinky_1_group/r_pinky_1_control/r_pinky_2_group/r_pinky_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_pinky_1_group/r_pinky_1_control/r_pinky_2_group/r_pinky_2_control/r_pinky_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_pinky_1_group/r_pinky_1_control/r_pinky_2_group/r_pinky_2_control/r_pinky_3_group/r_pinky_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control/r_point_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control/r_point_2_group/r_point_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control/r_point_2_group/r_point_2_control/r_point_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control/r_point_2_group/r_point_2_control/r_point_3_group/r_point_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control/r_point_2_group/r_point_2_control/r_point_3_group/r_point_3_control/r_point_4_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_point_1_group/r_point_1_control/r_point_2_group/r_point_2_control/r_point_3_group/r_point_3_control/r_point_4_group/r_point_4_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control/r_thumb_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control/r_thumb_2_group/r_thumb_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control/r_thumb_2_group/r_thumb_2_control/r_thumb_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control/r_thumb_2_group/r_thumb_2_control/r_thumb_3_group/r_thumb_3_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control/r_thumb_2_group/r_thumb_2_control/r_thumb_3_group/r_thumb_3_control/r_thumb_4_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/r_shoulder_group/r_shoulder_control/r_wrist_group/r_wrist_control/r_thumb_1_group/r_thumb_1_control/r_thumb_2_group/r_thumb_2_control/r_thumb_3_group/r_thumb_3_control/r_thumb_4_group/r_thumb_4_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_1_stretch
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_1_stretch/spine_1_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_1_stretch/spine_1_group/spine_1_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_2_stretch
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_2_stretch/spine_2_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_2_stretch/spine_2_group/spine_2_control
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_3_stretch
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_3_stretch/spine_3_group
+        weight: 1
+      - path: base_group/base_control/root_group/root_control/spine_3_stretch/spine_3_group/spine_3_control
+        weight: 1
+      - path: Mesh
+        weight: 1
+      - path: strechy_spine_control
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b380235b6b04e3a4c96e25aaf0d63314,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
